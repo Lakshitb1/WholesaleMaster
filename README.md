@@ -1,4 +1,4 @@
-# amazon_clone
+# WholeSaleMaster
 
 A new Flutter project.
 
